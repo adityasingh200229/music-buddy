@@ -1,0 +1,22 @@
+/* Custom styles to complement Bootstrap theme */
+.music-controls {
+    background: var(--bs-dark);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.progress {
+    height: 4px;
+    margin: 20px 0;
+}
+
+.btn-icon {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.parameter-group {
+    margin-bottom: 1.5rem;
+}
